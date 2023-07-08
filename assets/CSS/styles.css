@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.my-title{
+    font-weight: 800;
+}
+
+.sobre{
+    min-height: 60vh;
+}
+
+.hero{
+    background-color: rgb(255, 255, 255);
+}
+
+.btn-outline-danger{
+    background-color:rgba(240, 60, 60, 0.842);
+    color: white;
+}
+
+.formatlia{
+    color: white;
+}
+
+.margem1{
+    margin: 0px 40px 0px 0px;
+}
+
+section div img{
+    margin: 30px 0px -50px 0px;
+}
+
+.blackbg{
+    background-color: #000000;
+}
+
+.formatdiv{
+    width: auto;
+    height: 800px;
+    display: block;
+}
+
+.formatdiv2{
+    width: auto;
+    height: 400px;
+    display: block;
+}
